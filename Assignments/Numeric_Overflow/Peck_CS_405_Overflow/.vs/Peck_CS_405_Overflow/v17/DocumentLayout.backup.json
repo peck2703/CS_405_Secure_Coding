@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Byakuya-Kuchiki\\Documents\\Homework\\CS_405\\Peck_CS_405_Overflow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BEA9005-6541-42CA-A3B6-7D75D691CD6C}|Peck_CS_405_Overflow.vcxproj|C:\\Users\\Byakuya-Kuchiki\\Documents\\Homework\\CS_405\\Peck_CS_405_Overflow\\Peck_CS_405_Overflow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BEA9005-6541-42CA-A3B6-7D75D691CD6C}|Peck_CS_405_Overflow.vcxproj|solutionrelative:Peck_CS_405_Overflow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Peck_CS_405_Overflow.cpp",
+              "DocumentMoniker": "C:\\Users\\Byakuya-Kuchiki\\Documents\\Homework\\CS_405\\Peck_CS_405_Overflow\\Peck_CS_405_Overflow.cpp",
+              "RelativeDocumentMoniker": "Peck_CS_405_Overflow.cpp",
+              "ToolTip": "C:\\Users\\Byakuya-Kuchiki\\Documents\\Homework\\CS_405\\Peck_CS_405_Overflow\\Peck_CS_405_Overflow.cpp",
+              "RelativeToolTip": "Peck_CS_405_Overflow.cpp",
+              "ViewState": "AgIAANQAAAAAAAAAAAAYwPUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-09T04:46:59.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

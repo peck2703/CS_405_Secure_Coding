@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Homework\\CS_405_Secure_Coding\\Peck_SQL_Injection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:2:0:{8D2B4CFF-103A-458D-8EAA-BFF96532B9E3}|Peck_SQL_Injection.vcxproj|D:\\Homework\\CS_405_Secure_Coding\\Peck_SQL_Injection\\Peck_SQL_Injection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:2:0:{8D2B4CFF-103A-458D-8EAA-BFF96532B9E3}|Peck_SQL_Injection.vcxproj|solutionrelative:Peck_SQL_Injection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{8D2B4CFF-103A-458D-8EAA-BFF96532B9E3}|Peck_SQL_Injection.vcxproj|D:\\Homework\\CS_405_Secure_Coding\\Peck_SQL_Injection\\Peck_SQL_Injection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:1:0:{8D2B4CFF-103A-458D-8EAA-BFF96532B9E3}|Peck_SQL_Injection.vcxproj|solutionrelative:Peck_SQL_Injection.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Peck_SQL_Injection.cpp",
+              "DocumentMoniker": "D:\\Homework\\CS_405_Secure_Coding\\Peck_SQL_Injection\\Peck_SQL_Injection.cpp",
+              "RelativeDocumentMoniker": "Peck_SQL_Injection.cpp",
+              "ToolTip": "D:\\Homework\\CS_405_Secure_Coding\\Peck_SQL_Injection\\Peck_SQL_Injection.cpp",
+              "RelativeToolTip": "Peck_SQL_Injection.cpp",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAhwJ0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-17T11:46:26.493Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Peck_SQL_Injection.cpp",
+              "DocumentMoniker": "D:\\Homework\\CS_405_Secure_Coding\\Peck_SQL_Injection\\Peck_SQL_Injection.cpp",
+              "RelativeDocumentMoniker": "Peck_SQL_Injection.cpp",
+              "ToolTip": "D:\\Homework\\CS_405_Secure_Coding\\Peck_SQL_Injection\\Peck_SQL_Injection.cpp",
+              "RelativeToolTip": "Peck_SQL_Injection.cpp",
+              "ViewState": "AgIAANAAAAAAAAAAAAAhwOQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-17T13:12:37.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

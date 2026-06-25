@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Peck_SQL_Injection.vcxproj" Id="8d2b4cff-103a-458d-8eaa-bff96532b9e3" />
+</Solution>
